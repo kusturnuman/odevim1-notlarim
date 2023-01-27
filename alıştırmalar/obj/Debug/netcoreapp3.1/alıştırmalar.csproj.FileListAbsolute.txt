@@ -1,0 +1,13 @@
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\bin\Debug\netcoreapp3.1\alıştırmalar.exe
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\bin\Debug\netcoreapp3.1\alıştırmalar.deps.json
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\bin\Debug\netcoreapp3.1\alıştırmalar.runtimeconfig.json
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\bin\Debug\netcoreapp3.1\alıştırmalar.runtimeconfig.dev.json
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\bin\Debug\netcoreapp3.1\alıştırmalar.dll
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\bin\Debug\netcoreapp3.1\alıştırmalar.pdb
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\obj\Debug\netcoreapp3.1\alıştırmalar.csprojAssemblyReference.cache
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\obj\Debug\netcoreapp3.1\alıştırmalar.AssemblyInfoInputs.cache
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\obj\Debug\netcoreapp3.1\alıştırmalar.AssemblyInfo.cs
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\obj\Debug\netcoreapp3.1\alıştırmalar.csproj.CoreCompileInputs.cache
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\obj\Debug\netcoreapp3.1\alıştırmalar.dll
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\obj\Debug\netcoreapp3.1\alıştırmalar.pdb
+C:\Users\Numan\Desktop\21-21 c#\alıştırmalar\obj\Debug\netcoreapp3.1\alıştırmalar.genruntimeconfig.cache
